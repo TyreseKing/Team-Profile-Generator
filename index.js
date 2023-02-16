@@ -8,7 +8,7 @@ const generateHTML = require('./src/teamGenerator');
 // Team profile modules
 const Manager = require("./library/manager");
 const Engineer = require("./library/engineer");
-const Intern = require(".//intern");
+const Intern = require("./library/intern");
 
 // Questions prompted to user
 const teamArray = [];
